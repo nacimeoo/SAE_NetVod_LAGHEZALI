@@ -1,0 +1,11 @@
+{
+    "name": "enzo2/sae_app_web",
+    "autoload": {
+        "psr-4": {
+            "iutnc\\SAE_APP_WEB\\": "src/classes/"
+        }
+    },
+    "require": {
+      "ext-pdo": "*"
+    }
+}
